@@ -27,4 +27,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: ..tProject-Python/tree/main/sample-python-app
+  base-directory: ..sample-python-app
